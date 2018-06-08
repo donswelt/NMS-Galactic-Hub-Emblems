@@ -9,6 +9,7 @@ To learn more about the Galactic Hub Project, please refer to [this subreddit](h
 # Download
 
 To download the .AI file just click on "NMS Galactic Hub Emblem.ai" in the directory above and select Download.
+If you are visiting this repositroy from a mobile device click on "code" to see the directory.
 There are also hires .PNG files of all variations in the "hires" folder.
 
 # Variations (so far)
