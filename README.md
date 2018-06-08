@@ -18,4 +18,4 @@ Variations (so far):
 
 ## Galactic Hub Space Pride
 
-![Galactic Hub Space Pride](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/images/blob/master/ghsp.png)
+![Galactic Hub Space Pride](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghsp.png)
