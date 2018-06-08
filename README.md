@@ -10,12 +10,12 @@ Variations (so far):
 
 ## Galactic Hub Default
 
-![Galactic Hub Default](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/images/ghd.png)
+![Galactic Hub Default](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghd.png)
 
 ## Galactic Hub Entropic Twilight
 
-![Galactic Hub Entropic Twilight](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/images/ghet.png)
+![Galactic Hub Entropic Twilight](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghet.png)
 
 ## Galactic Hub Space Pride
 
-![Galactic Hub Space Pride](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/images/ghsp.png)
+![Galactic Hub Space Pride](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/images/blob/master/ghsp.png)
