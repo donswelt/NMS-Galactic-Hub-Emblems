@@ -25,3 +25,24 @@ There are also hires .PNG files of all variations in the "hires" folder.
 - Galactic Hub Space Pride
 
 ![Galactic Hub Space Pride](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghsp.png)
+
+- Galactic Hub Defense Force
+
+![Galactic Hub Defense Force](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghdf.png)
+
+- Galactic Hub Hilbert
+
+![Galactic Hub Hilbert](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghh.png)
+
+- Galactic Hub Eissentam
+
+![Galactic Hub Eissentam](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghe.png)
+
+- Galactic Hub Calypso
+
+![Galactic Hub Calypso](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghc.png)
+
+- Galactic Hub Budullangr
+
+![Galactic Hub Budullangr](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghb.png)
+
