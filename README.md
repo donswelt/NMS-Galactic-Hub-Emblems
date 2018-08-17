@@ -16,7 +16,7 @@ To learn more about the Galactic Hub Project, please refer to [this subreddit](h
 - added Galactic Hub Eissentam
 - added Galactic Hub Calypso
 - added Galactic Hub Budullangr
-- added Hires files of new variations to /hires
+- added hires images of new variations to /hires
 - updated .AI file with all logo variations
 
 # Download
