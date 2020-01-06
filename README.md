@@ -10,6 +10,9 @@ To learn more about the Galactic Hub Project, please refer to [this subreddit](h
 
 # Release Notes
 
+**v2.2**
+- added Galactic Hub Exobiology Corps emblem.
+
 **v2.1**
 - added "Project" to the default emblem as seen in the official game.
 
