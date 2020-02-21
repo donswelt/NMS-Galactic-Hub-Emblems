@@ -10,6 +10,9 @@ To learn more about the Galactic Hub Project, please refer to [this subreddit](h
 
 # Release Notes
 
+**v2.3**
+- added Galactic Hub Ship Hunters emblem.
+
 **v2.2**
 - added Galactic Hub Exobiology Corps emblem.
 
@@ -41,3 +44,5 @@ There are also hires .PNG files of all variations in the "hires" folder.
 - Galactic Hub Eissentam
 - Galactic Hub Calypso
 - Galactic Hub Budullangr
+- Galactic Hub Exobiology Corps
+- Galactic Hub Ship Hunters
