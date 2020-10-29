@@ -10,6 +10,9 @@ To learn more about the Galactic Hub Project, please refer to [this subreddit](h
 
 # Release Notes
 
+**v2.4**
+- added Galactic Hub Star League emblem.
+
 **v2.3**
 - added Galactic Hub Ship Hunters emblem.
 
@@ -46,3 +49,4 @@ There are also hires .PNG files of all variations in the "hires" folder.
 - Galactic Hub Budullangr
 - Galactic Hub Exobiology Corps
 - Galactic Hub Ship Hunters
+- Galactic Hub Star League
