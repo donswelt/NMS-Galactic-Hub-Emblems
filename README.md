@@ -8,6 +8,9 @@ To learn more about the Galactic Hub Project, please refer to [this subreddit](h
 
 # Release Notes
 
+**v2.5**
+- added Galactic Hub Builders Guild emblem.
+
 **v2.4**
 - added Galactic Hub Star League emblem.
 
@@ -51,4 +54,4 @@ There are also hires .PNG files of all variations in the "hires" folder.
 
 # Credits
 
-Designed by Torsten Hartmann. That's me.
+Designed by me, Torsten Hartmann for the Galactic Hub Project.
