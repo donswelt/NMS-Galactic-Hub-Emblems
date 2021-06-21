@@ -2,8 +2,6 @@
 
 ![Galactic Hub Default](https://github.com/donswelt/NMS-Galactic-Hub-Emblems/blob/master/images/ghd.png)
 
-Designed by Torsten Hartmann. That's me.
-
 This .AI file contains layers with all variations of the Galactic Hub emblem. You can open and edit this file in [Adobe Illustrator](https://www.adobe.com/products/illustrator.html) and [Affinity Designer](https://affinity.serif.com/).
 
 To learn more about the Galactic Hub Project, please refer to [this subreddit](https://www.reddit.com/r/NMSGalacticHub/comments/7awyot/welcome_to_the_galactic_hub/).
@@ -50,3 +48,7 @@ There are also hires .PNG files of all variations in the "hires" folder.
 - Galactic Hub Exobiology Corps
 - Galactic Hub Ship Hunters
 - Galactic Hub Star League
+
+# Credits
+
+Designed by Torsten Hartmann. That's me.
