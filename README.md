@@ -8,6 +8,9 @@ To learn more about the Galactic Hub Project, please refer to [this subreddit](h
 
 # Release Notes
 
+**v2.6**
+- added Galactic Hub Geological Surveyors emblem.
+- 
 **v2.5**
 - added Galactic Hub Builders Guild emblem.
 
